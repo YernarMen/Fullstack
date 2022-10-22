@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\django_react_proj",
+    "\\django_react_proj\\django_react_proj",
+    "\\django_react_proj\\materials",
+    "\\django_react_proj\\materials\\migrations",
+    "\\django_react_proj\\tours",
+    "\\tours-fe",
+    "\\tours-fe\\src",
+    "\\tours-fe\\src\\components",
+    "\\tours-fe\\src\\constants"
+  ],
+  "SelectedNode": "\\django_react_proj\\tours\\admin.py",
+  "PreviewInSolutionExplorer": false
+}
