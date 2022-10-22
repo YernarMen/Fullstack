@@ -1,0 +1,57 @@
+body{
+    background-color: #EEEEEE;
+
+}
+
+
+
+.main{
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.conteiner{
+    margin: 0 auto;
+    width: 50%;
+
+}
+
+.container-fluid{
+    width: 50%;
+}
+
+.pagination{
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    gap: 20px;
+
+}
+
+.undercard{
+    position: relative;
+    height: 80px;
+}
+
+.morebutton{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
+
+.p-4{
+    width: 50%;
+}
+
+.btn{
+
+
+
+}
